@@ -1,0 +1,1835 @@
+[ 2017-09-01T09:51:46+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-09-01T09:57:29+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+
+[ 2017-09-01T09:58:45+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-09-01T09:58:53+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2017-09-01T09:58:54+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-09-01T09:58:55+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+
+[ 2017-09-01T09:58:55+08:00 ] ::1 /index.php/Home/index/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+
+[ 2017-09-01T13:06:32+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001355s ]
+
+[ 2017-09-01T13:09:27+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002044s ]
+
+[ 2017-09-01T13:09:49+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+
+[ 2017-09-01T13:09:58+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+
+[ 2017-09-01T13:10:00+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003956s ]
+
+[ 2017-09-01T13:10:00+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2017-09-01T13:10:01+08:00 ] ::1 /index.php/Home/index/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+
+[ 2017-09-01T13:13:16+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005581s ]
+
+[ 2017-09-01T13:13:45+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001765s ]
+
+[ 2017-09-01T13:13:45+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001453s ]
+
+[ 2017-09-01T13:13:53+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001472s ]
+
+[ 2017-09-01T13:13:54+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002049s ]
+
+[ 2017-09-01T13:13:55+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+
+[ 2017-09-01T13:14:04+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+
+[ 2017-09-01T13:14:05+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+
+[ 2017-09-01T13:37:13+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+
+[ 2017-09-01T13:37:14+08:00 ] ::1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001972s ]
+
+[ 2017-09-01T13:37:14+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2017-09-01T13:37:14+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+
+[ 2017-09-01T13:37:18+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+
+[ 2017-09-01T13:37:19+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002176s ]
+
+[ 2017-09-01T13:37:20+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002396s ]
+
+[ 2017-09-01T13:37:40+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+
+[ 2017-09-01T13:37:41+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001775s ]
+
+[ 2017-09-01T13:37:42+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002115s ]
+
+[ 2017-09-01T13:40:43+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001339s ]
+
+[ 2017-09-01T13:40:43+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002163s ]
+
+[ 2017-09-01T13:40:49+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016516s ]
+
+[ 2017-09-01T13:40:49+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016224s ]
+
+[ 2017-09-01T13:41:26+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+
+[ 2017-09-01T13:41:26+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002007s ]
+
+[ 2017-09-01T13:42:06+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+
+[ 2017-09-01T13:42:06+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002334s ]
+
+[ 2017-09-01T13:42:11+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002330s ]
+
+[ 2017-09-01T13:42:11+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001583s ]
+
+[ 2017-09-01T13:46:55+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+
+[ 2017-09-01T13:46:56+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002283s ]
+
+[ 2017-09-01T14:07:53+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+
+[ 2017-09-01T14:09:38+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+
+[ 2017-09-01T14:09:39+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001388s ]
+
+[ 2017-09-01T14:09:40+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001662s ]
+
+[ 2017-09-01T14:21:09+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+
+[ 2017-09-01T14:21:10+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002067s ]
+
+[ 2017-09-01T14:22:46+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+
+[ 2017-09-01T14:22:46+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002613s ]
+
+[ 2017-09-01T14:54:11+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+
+[ 2017-09-01T14:54:12+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002128s ]
+
+[ 2017-09-01T14:56:45+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+
+[ 2017-09-01T14:56:46+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002423s ]
+
+[ 2017-09-01T14:57:02+08:00 ] ::1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+
+[ 2017-09-01T14:57:19+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-09-01T14:57:20+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001899s ]
+
+[ 2017-09-01T14:59:20+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+
+[ 2017-09-01T14:59:21+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002027s ]
+
+[ 2017-09-01T15:01:47+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005178s ]
+
+[ 2017-09-01T15:01:49+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+
+[ 2017-09-01T15:01:49+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004190s ]
+
+[ 2017-09-01T15:03:00+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+
+[ 2017-09-01T15:03:01+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001405s ]
+
+[ 2017-09-01T15:03:01+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001649s ]
+
+[ 2017-09-01T15:03:07+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001138s ]
+
+[ 2017-09-01T15:03:10+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+
+[ 2017-09-01T15:03:57+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002078s ]
+
+[ 2017-09-01T15:04:00+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+
+[ 2017-09-01T15:12:04+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+
+[ 2017-09-01T15:12:05+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001409s ]
+
+[ 2017-09-01T15:12:08+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+
+[ 2017-09-01T15:12:11+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001601s ]
+
+[ 2017-09-01T15:19:58+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001477s ]
+
+[ 2017-09-01T15:19:59+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001596s ]
+
+[ 2017-09-01T15:20:00+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012932s ]
+
+[ 2017-09-01T15:22:17+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+
+[ 2017-09-01T15:22:19+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004151s ]
+
+[ 2017-09-01T15:22:20+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001908s ]
+
+[ 2017-09-01T15:24:17+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001383s ]
+
+[ 2017-09-01T15:24:18+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002106s ]
+
+[ 2017-09-01T15:25:23+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+
+[ 2017-09-01T15:25:23+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002310s ]
+
+[ 2017-09-01T16:10:53+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001578s ]
+
+[ 2017-09-01T16:11:01+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+
+[ 2017-09-01T16:11:02+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+
+[ 2017-09-01T16:11:03+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001425s ]
+
+[ 2017-09-01T16:11:03+08:00 ] ::1 /index.php/Home/index/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001642s ]
+
+[ 2017-09-01T16:27:32+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002389s ]
+
+[ 2017-09-01T16:27:32+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000433s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002260s ]
+
+[ 2017-09-01T16:27:35+08:00 ] ::1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001415s ]
+
+[ 2017-09-01T16:29:30+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+
+[ 2017-09-01T16:29:30+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003036s ]
+
+[ 2017-09-01T16:30:49+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001589s ]
+
+[ 2017-09-01T16:30:49+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002315s ]
+
+[ 2017-09-01T16:31:27+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001690s ]
+
+[ 2017-09-01T16:31:27+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001937s ]
+
+[ 2017-09-01T16:34:35+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+
+[ 2017-09-01T16:34:36+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+
+[ 2017-09-01T16:34:36+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001709s ]
+
+[ 2017-09-01T16:34:48+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-09-01T16:34:49+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+
+[ 2017-09-01T16:34:50+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002148s ]
+
+[ 2017-09-01T16:34:52+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001710s ]
+
+[ 2017-09-01T16:34:53+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001644s ]
+
+[ 2017-09-01T16:34:53+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001836s ]
+
+[ 2017-09-01T16:41:49+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001940s ]
+
+[ 2017-09-01T16:41:49+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004946s ]
+
+[ 2017-09-01T16:42:16+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-09-01T16:42:16+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003677s ]
+
+[ 2017-09-01T16:45:34+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+
+[ 2017-09-01T16:45:34+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003007s ]
+
+[ 2017-09-01T16:45:37+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001713s ]
+
+[ 2017-09-01T16:45:39+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004737s ]
+
+[ 2017-09-01T16:45:39+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001741s ]
+
+[ 2017-09-01T16:49:52+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+
+[ 2017-09-01T16:49:52+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001323s ]
+
+[ 2017-09-01T16:50:14+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+
+[ 2017-09-01T16:50:16+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+
+[ 2017-09-01T16:50:16+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001980s ]
+
+[ 2017-09-01T16:57:37+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010258s ]
+
+[ 2017-09-01T16:57:37+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016208s ]
+
+[ 2017-09-01T16:57:53+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003062s ]
+
+[ 2017-09-01T16:57:54+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002303s ]
+
+[ 2017-09-01T16:59:27+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003556s ]
+
+[ 2017-09-01T16:59:27+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+
+[ 2017-09-01T17:01:32+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+
+[ 2017-09-01T17:01:32+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002487s ]
+
+[ 2017-09-01T17:02:10+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-01T17:02:11+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006917s ]
+
+[ 2017-09-01T17:05:33+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001325s ]
+
+[ 2017-09-01T17:05:33+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012007s ]
+
+[ 2017-09-01T17:10:18+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001971s ]
+
+[ 2017-09-01T17:10:19+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004430s ]
+
+[ 2017-09-01T17:11:01+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001599s ]
+
+[ 2017-09-01T17:11:01+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010156s ]
+
+[ 2017-09-01T17:27:58+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015898s ]
+
+[ 2017-09-01T17:27:59+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038723s ]
+
+[ 2017-09-01T18:56:41+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024882s ]
+
+[ 2017-09-01T18:56:42+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000354s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035750s ]
+
+[ 2017-09-01T18:56:42+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001783s ]
+
+[ 2017-09-01T18:56:44+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037937s ]
+
+[ 2017-09-01T18:56:44+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001881s ]
+
+[ 2017-09-01T18:56:45+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002482s ]
+
+[ 2017-09-01T18:56:55+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001387s ]
+
+[ 2017-09-01T18:56:56+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005964s ]
+
+[ 2017-09-01T18:59:15+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003011s ]
+
+[ 2017-09-01T18:59:16+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002966s ]
+
+[ 2017-09-01T19:06:07+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001242s ]
+
+[ 2017-09-01T19:06:08+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002334s ]
+
+[ 2017-09-01T19:15:10+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+
+[ 2017-09-01T19:15:11+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007906s ]
+
+[ 2017-09-01T19:17:25+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002672s ]
+
+[ 2017-09-01T19:17:26+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002048s ]
+
+[ 2017-09-01T19:17:39+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+
+[ 2017-09-01T19:17:40+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002384s ]
+
+[ 2017-09-01T19:18:21+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+
+[ 2017-09-01T19:18:21+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002398s ]
+
+[ 2017-09-01T19:18:36+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+
+[ 2017-09-01T19:18:36+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001666s ]
+
+[ 2017-09-01T19:18:44+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001457s ]
+
+[ 2017-09-01T19:18:45+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001835s ]
+
+[ 2017-09-01T19:18:46+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005008s ]
+
+[ 2017-09-01T19:20:07+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001653s ]
+
+[ 2017-09-01T19:20:08+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001544s ]
+
+[ 2017-09-01T19:20:37+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006605s ]
+
+[ 2017-09-01T19:20:38+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035738s ]
+
+[ 2017-09-01T19:20:47+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001766s ]
+
+[ 2017-09-01T19:20:49+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002311s ]
+
+[ 2017-09-01T19:21:17+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+
+[ 2017-09-01T19:21:18+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004616s ]
+
+[ 2017-09-01T19:22:35+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002118s ]
+
+[ 2017-09-01T19:22:35+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001606s ]
+
+[ 2017-09-01T19:22:49+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+
+[ 2017-09-01T19:22:50+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009099s ]
+
+[ 2017-09-01T19:23:03+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+
+[ 2017-09-01T19:23:04+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002011s ]
+
+[ 2017-09-01T19:23:32+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006928s ]
+
+[ 2017-09-01T19:23:33+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002898s ]
+
+[ 2017-09-01T19:23:46+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011097s ]
+
+[ 2017-09-01T19:23:47+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+
+[ 2017-09-01T19:23:56+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004218s ]
+
+[ 2017-09-01T19:23:57+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002258s ]
+
+[ 2017-09-01T19:24:26+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001504s ]
+
+[ 2017-09-01T19:24:26+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001871s ]
+
+[ 2017-09-01T19:24:55+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001732s ]
+
+[ 2017-09-01T19:24:56+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002261s ]
+
+[ 2017-09-01T19:26:28+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001889s ]
+
+[ 2017-09-01T19:26:28+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003204s ]
+
+[ 2017-09-01T19:28:01+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001956s ]
+
+[ 2017-09-01T19:28:02+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002354s ]
+
+[ 2017-09-01T19:28:14+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001623s ]
+
+[ 2017-09-01T19:28:15+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003139s ]
+
+[ 2017-09-01T19:29:08+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+
+[ 2017-09-01T19:29:09+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002854s ]
+
+[ 2017-09-01T19:30:10+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014606s ]
+
+[ 2017-09-01T19:30:11+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001814s ]
+
+[ 2017-09-01T19:31:22+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002146s ]
+
+[ 2017-09-01T19:31:23+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004439s ]
+
+[ 2017-09-01T19:31:30+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-09-01T19:31:31+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021284s ]
+
+[ 2017-09-01T19:31:50+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001667s ]
+
+[ 2017-09-01T19:31:51+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010262s ]
+
+[ 2017-09-01T19:32:58+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001678s ]
+
+[ 2017-09-01T19:32:59+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002482s ]
+
+[ 2017-09-01T19:33:52+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022008s ]
+
+[ 2017-09-01T19:33:52+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005838s ]
+
+[ 2017-09-01T19:34:25+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+
+[ 2017-09-01T19:34:26+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001851s ]
+
+[ 2017-09-01T19:34:39+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+
+[ 2017-09-01T19:34:39+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+
+[ 2017-09-01T19:34:54+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+
+[ 2017-09-01T19:34:55+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003141s ]
+
+[ 2017-09-01T19:35:10+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001947s ]
+
+[ 2017-09-01T19:35:11+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001713s ]
+
+[ 2017-09-01T19:35:31+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003840s ]
+
+[ 2017-09-01T19:35:32+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001820s ]
+
+[ 2017-09-01T19:35:58+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002351s ]
+
+[ 2017-09-01T19:35:59+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015985s ]
+
+[ 2017-09-01T19:36:27+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002373s ]
+
+[ 2017-09-01T19:36:27+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017805s ]
+
+[ 2017-09-01T19:36:40+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.098996s ]
+
+[ 2017-09-01T19:36:40+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002210s ]
+
+[ 2017-09-01T19:36:56+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002497s ]
+
+[ 2017-09-01T19:36:57+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001887s ]
+
+[ 2017-09-01T19:37:51+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002143s ]
+
+[ 2017-09-01T19:37:52+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.091373s ]
+
+[ 2017-09-01T19:38:19+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002073s ]
+
+[ 2017-09-01T19:38:20+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+
+[ 2017-09-01T19:38:34+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001145s ]
+
+[ 2017-09-01T19:38:35+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004115s ]
+
+[ 2017-09-01T19:39:21+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+
+[ 2017-09-01T19:39:22+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002083s ]
+
+[ 2017-09-01T19:40:03+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+
+[ 2017-09-01T19:40:04+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003359s ]
+
+[ 2017-09-01T19:40:58+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004823s ]
+
+[ 2017-09-01T19:40:59+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001947s ]
+
+[ 2017-09-01T19:41:07+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001359s ]
+
+[ 2017-09-01T19:41:08+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002320s ]
+
+[ 2017-09-01T19:41:16+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-09-01T19:41:17+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003051s ]
+
+[ 2017-09-01T19:41:37+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001849s ]
+
+[ 2017-09-01T19:41:39+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002990s ]
+
+[ 2017-09-01T19:41:48+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-09-01T19:41:48+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002756s ]
+
+[ 2017-09-01T19:42:39+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001635s ]
+
+[ 2017-09-01T19:42:39+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002837s ]
+
+[ 2017-09-01T19:42:50+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001993s ]
+
+[ 2017-09-01T19:42:51+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001637s ]
+
+[ 2017-09-01T19:43:11+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001662s ]
+
+[ 2017-09-01T19:43:12+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017733s ]
+
+[ 2017-09-01T19:43:50+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001536s ]
+
+[ 2017-09-01T19:43:51+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.030078s ]
+
+[ 2017-09-01T19:44:26+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010528s ]
+
+[ 2017-09-01T19:44:27+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000355s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003496s ]
+
+[ 2017-09-01T19:49:22+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003621s ]
+
+[ 2017-09-01T19:49:28+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+
+[ 2017-09-01T19:49:30+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001649s ]
+
+[ 2017-09-01T19:49:30+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+
+[ 2017-09-01T19:50:21+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002468s ]
+
+[ 2017-09-01T19:50:22+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001654s ]
+
+[ 2017-09-01T19:50:51+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001523s ]
+
+[ 2017-09-01T19:50:52+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.137381s ]
+
+[ 2017-09-01T19:52:19+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001333s ]
+
+[ 2017-09-01T19:52:20+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002258s ]
+
+[ 2017-09-01T19:53:25+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+
+[ 2017-09-01T19:53:26+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002529s ]
+
+[ 2017-09-01T19:53:42+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002074s ]
+
+[ 2017-09-01T19:53:43+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013446s ]
+
+[ 2017-09-01T19:54:12+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001411s ]
+
+[ 2017-09-01T19:54:13+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001869s ]
+
+[ 2017-09-01T19:54:35+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+
+[ 2017-09-01T19:54:36+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002333s ]
+
+[ 2017-09-01T19:59:24+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001329s ]
+
+[ 2017-09-01T19:59:25+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009960s ]
+
+[ 2017-09-01T20:07:58+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001515s ]
+
+[ 2017-09-01T20:07:59+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023038s ]
+
+[ 2017-09-01T20:11:28+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001262s ]
+
+[ 2017-09-01T20:11:29+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003097s ]
+
+[ 2017-09-01T20:12:11+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000230s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003640s ]
+
+[ 2017-09-01T20:12:12+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002010s ]
+
+[ 2017-09-01T20:12:42+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037075s ]
+
+[ 2017-09-01T20:12:42+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003311s ]
+
+[ 2017-09-01T20:13:23+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+
+[ 2017-09-01T20:13:23+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002625s ]
+
+[ 2017-09-01T20:14:01+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+
+[ 2017-09-01T20:14:02+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006848s ]
+
+[ 2017-09-01T20:14:13+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002416s ]
+
+[ 2017-09-01T20:14:13+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001721s ]
+
+[ 2017-09-01T20:14:19+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2017-09-01T20:14:19+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002096s ]
+
+[ 2017-09-01T20:14:37+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002470s ]
+
+[ 2017-09-01T20:14:38+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001818s ]
+
+[ 2017-09-01T20:14:51+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001414s ]
+
+[ 2017-09-01T20:14:51+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000295s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034013s ]
+
+[ 2017-09-01T20:18:06+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002245s ]
+
+[ 2017-09-01T20:18:09+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+
+[ 2017-09-01T20:18:19+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+
+[ 2017-09-01T20:18:24+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003442s ]
+
+[ 2017-09-01T20:18:25+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001658s ]
+
+[ 2017-09-01T20:18:26+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001808s ]
+
+[ 2017-09-01T20:18:27+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001676s ]
+
+[ 2017-09-01T20:18:29+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001028s ]
+
+[ 2017-09-01T20:19:04+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+
+[ 2017-09-01T20:19:04+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002333s ]
+
+[ 2017-09-01T20:19:06+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005961s ]
+
+[ 2017-09-01T20:19:07+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001304s ]
+
+[ 2017-09-01T20:19:07+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001638s ]
+
+[ 2017-09-01T20:26:44+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001793s ]
+
+[ 2017-09-01T20:26:44+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010912s ]
+
+[ 2017-09-01T20:27:25+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001654s ]
+
+[ 2017-09-01T20:27:25+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004916s ]
+
+[ 2017-09-01T20:27:34+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+
+[ 2017-09-01T20:27:38+08:00 ] ::1 /index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+
+[ 2017-09-01T20:27:39+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001484s ]
+
+[ 2017-09-01T20:27:40+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+
+[ 2017-09-01T20:28:58+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001704s ]
+
+[ 2017-09-01T20:28:59+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027508s ]
+
+[ 2017-09-01T20:30:19+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+
+[ 2017-09-01T20:30:20+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000956s ]
+INFO: [ app_init ] --END-- [ RunTime:0.109926s ]
+
+[ 2017-09-01T20:30:33+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002286s ]
+
+[ 2017-09-01T20:30:34+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003159s ]
+
+[ 2017-09-01T20:46:08+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002351s ]
+
+[ 2017-09-01T20:46:08+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014645s ]
+
+[ 2017-09-01T20:46:15+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+
+[ 2017-09-01T20:46:16+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001711s ]
+
+[ 2017-09-01T20:46:16+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000458s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006732s ]
+
+[ 2017-09-01T20:47:48+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001703s ]
+
+[ 2017-09-01T20:47:49+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001728s ]
+
+[ 2017-09-01T20:47:50+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003521s ]
+
+[ 2017-09-01T20:49:21+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002572s ]
+
+[ 2017-09-01T20:49:21+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007439s ]
+
+[ 2017-09-01T20:49:23+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003378s ]
+
+[ 2017-09-01T20:49:24+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000757s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007078s ]
+
+[ 2017-09-01T20:49:25+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001983s ]
+
+[ 2017-09-01T20:49:51+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004656s ]
+
+[ 2017-09-01T20:49:52+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002314s ]
+
+[ 2017-09-01T20:49:53+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005638s ]
+
+[ 2017-09-01T20:50:45+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001552s ]
+
+[ 2017-09-01T20:50:46+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001851s ]
+
+[ 2017-09-01T20:50:47+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001712s ]
+
+[ 2017-09-01T21:56:51+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010547s ]
+
+[ 2017-09-01T21:56:52+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002253s ]
+
+[ 2017-09-01T21:58:02+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+
+[ 2017-09-01T21:58:02+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010675s ]
+
+[ 2017-09-01T22:01:28+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001551s ]
+
+[ 2017-09-01T22:01:28+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002217s ]
+
+[ 2017-09-01T22:02:33+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+
+[ 2017-09-01T22:02:34+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003493s ]
+
+[ 2017-09-01T22:02:59+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003233s ]
+
+[ 2017-09-01T22:02:59+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002099s ]
+
+[ 2017-09-01T22:04:43+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+
+[ 2017-09-01T22:04:44+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000531s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002606s ]
+
+[ 2017-09-01T22:05:12+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+
+[ 2017-09-01T22:05:13+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007412s ]
+
+[ 2017-09-01T22:09:08+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001588s ]
+
+[ 2017-09-01T22:09:08+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000471s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004794s ]
+
+[ 2017-09-01T22:19:45+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+
+[ 2017-09-01T22:19:46+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+
+[ 2017-09-01T22:19:47+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011373s ]
+
+[ 2017-09-01T22:20:32+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001566s ]
+
+[ 2017-09-01T22:20:33+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006203s ]
+
+[ 2017-09-01T22:20:36+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002085s ]
+
+[ 2017-09-01T22:20:37+08:00 ] ::1 /index.php/Home/index/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+
+[ 2017-09-01T22:20:38+08:00 ] ::1 /index.php/Home/index/images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001856s ]
+

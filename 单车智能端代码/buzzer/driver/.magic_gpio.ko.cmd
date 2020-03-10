@@ -1,0 +1,1 @@
+cmd_/home/nfs/test/buzzer/driver/magic_gpio.ko := arm-linux-ld -EL -r    -o /home/nfs/test/buzzer/driver/magic_gpio.ko /home/nfs/test/buzzer/driver/magic_gpio.o /home/nfs/test/buzzer/driver/magic_gpio.mod.o

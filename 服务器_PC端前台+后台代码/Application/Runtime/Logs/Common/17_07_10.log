@@ -1,0 +1,96 @@
+[ 2017-07-10T15:01:19+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012572s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-10T15:01:19+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-10T15:01:26+08:00 ] ::1 /images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-10T15:01:27+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-10T15:18:11+08:00 ] ::1 /images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-10T16:52:07+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-10T16:52:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-10T16:52:07+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-10T16:52:09+08:00 ] 127.0.0.1 /images/img_bg_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-10T16:52:09+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-10T17:00:12+08:00 ] 127.0.0.1 /Public/fonts/themify.woff?-fvbane
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-10T17:00:12+08:00 ] 127.0.0.1 /Public/fonts/themify.ttf?-fvbane
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-10T17:55:21+08:00 ] 127.0.0.1 /pagead/ads?client=ca-pub-4849334127873259&format=760x90&output=html&h=90&slotname=7506003481&adk=3967040578&adf=2474437596&w=760&lmt=1499680521&flash=25.0.0&url=http%3A%2F%2Flol.duowan.com%2F1703%2F354628303306.html&wgl=1&dt=1499680521552&bpp=15&bdt=13535&fdt=20&idt=102&shv=r20170629&cbv=r20170110&saldr=aa&correlator=5894895987499&frm=20&ga_vid=838044524.1499680522&ga_sid=1499680522&ga_hid=1253233314&ga_fc=0&pv=2&iag=3&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=480&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1030&u_aw=1920&u_cd=24&u_nplug=21&u_nmime=41&adx=363&ady=1802&biw=1859&bih=907&abxe=1&eid=137237720&oid=3&ref=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DZFx1qf6M0_qlgpE6AmROs6hjergK1XMukV6urUtiQjpEx1v4-0t4ZP2su9PpHZ1VW9aI6kxINdl5MOn6-KljdK%26wd%3D%26eqid%3D8b7fe34c00009d170000000359634edd&rx=0&eae=0&fc=528&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C1920%2C1030%2C1880%2C907&vis=2&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=8&bc=1&ifi=1&xpc=FR9PunHS4C&p=http%3A//lol.duowan.com&dtd=315
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Pagead
+
+[ 2017-07-10T17:55:22+08:00 ] 127.0.0.1 /pagead/ads?client=ca-pub-4849334127873259&format=300x250&output=html&h=250&slotname=6029270289&adk=2754741136&adf=283427965&w=300&lmt=1499680522&avail_w=302&flash=25.0.0&url=http%3A%2F%2Flol.duowan.com%2F1703%2F354628303306.html&wgl=1&dt=1499680521573&bpp=20&bdt=13557&fdt=1271&idt=1273&shv=r20170629&cbv=r20170110&saldr=aa&prev_fmts=760x90&correlator=5894895987499&frm=20&ga_vid=838044524.1499680522&ga_sid=1499680522&ga_hid=1253233314&ga_fc=0&pv=1&iag=3&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=480&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1030&u_aw=1920&u_cd=24&u_nplug=21&u_nmime=41&adx=1195&ady=613&biw=1859&bih=907&abxe=1&eid=137237720&oid=3&ref=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DZFx1qf6M0_qlgpE6AmROs6hjergK1XMukV6urUtiQjpEx1v4-0t4ZP2su9PpHZ1VW9aI6kxINdl5MOn6-KljdK%26wd%3D%26eqid%3D8b7fe34c00009d170000000359634edd&rx=0&eae=0&fc=528&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C1920%2C1030%2C1880%2C907&vis=2&rsz=%7C%7CeEr%7C&abl=CS&ppjl=u&pfx=0&fu=8&bc=1&ifi=2&xpc=REMQnREoaE&p=http%3A//lol.duowan.com&dtd=1324
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Pagead
+
+[ 2017-07-10T17:55:23+08:00 ] 127.0.0.1 /pagead/ads?client=ca-pub-4849334127873259&format=300x250&output=html&h=250&slotname=6029270289&adk=2754741136&adf=2757760827&w=300&lmt=1499680523&avail_w=302&flash=25.0.0&url=http%3A%2F%2Flol.duowan.com%2F1703%2F354628303306.html&wgl=1&dt=1499680521938&bpp=37&bdt=13921&fdt=1891&idt=1927&shv=r20170629&cbv=r20170110&saldr=aa&prev_fmts=760x90%2C300x250&correlator=5894895987499&frm=20&ga_vid=838044524.1499680522&ga_sid=1499680522&ga_hid=1253233314&ga_fc=0&pv=1&iag=3&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=480&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1030&u_aw=1920&u_cd=24&u_nplug=21&u_nmime=41&adx=1195&ady=1778&biw=1859&bih=907&abxe=1&eid=137237720&oid=3&ref=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DZFx1qf6M0_qlgpE6AmROs6hjergK1XMukV6urUtiQjpEx1v4-0t4ZP2su9PpHZ1VW9aI6kxINdl5MOn6-KljdK%26wd%3D%26eqid%3D8b7fe34c00009d170000000359634edd&rx=0&eae=0&fc=528&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C1920%2C1030%2C1880%2C907&vis=2&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=8&bc=1&ifi=3&xpc=4EZSb8tixn&p=http%3A//lol.duowan.com&dtd=1936
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Pagead
+
+[ 2017-07-10T17:55:25+08:00 ] 127.0.0.1 /pagead/ads?client=ca-pub-4849334127873259&format=300x250&output=html&h=250&slotname=6029270289&adk=2754741136&adf=474937701&w=300&lmt=1499680525&avail_w=302&flash=25.0.0&url=http%3A%2F%2Flol.duowan.com%2F1703%2F354628303306.html&wgl=1&dt=1499680522500&bpp=9&bdt=14484&fdt=3372&idt=3432&shv=r20170629&cbv=r20170110&saldr=aa&prev_fmts=760x90%2C300x250%2C300x250&correlator=5894895987499&frm=20&ga_vid=838044524.1499680522&ga_sid=1499680522&ga_hid=1253233314&ga_fc=0&pv=1&iag=3&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=480&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1030&u_aw=1920&u_cd=24&u_nplug=21&u_nmime=41&adx=1196&ady=3320&biw=1859&bih=907&abxe=1&eid=137237720&oid=3&ref=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DZFx1qf6M0_qlgpE6AmROs6hjergK1XMukV6urUtiQjpEx1v4-0t4ZP2su9PpHZ1VW9aI6kxINdl5MOn6-KljdK%26wd%3D%26eqid%3D8b7fe34c00009d170000000359634edd&rx=0&eae=0&fc=528&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C1920%2C1030%2C1880%2C907&vis=2&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=8&bc=1&ifi=4&xpc=7DApneoef7&p=http%3A//lol.duowan.com&dtd=3449
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Pagead
+
